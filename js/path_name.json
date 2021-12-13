@@ -1,9 +1,9 @@
 {
     "local":{
         "directory":{
-            "download_GRIB":"d:/data/JRA55/test_download/GRIB",
-            "local_BINARY":"d:/data/JRA55/test_download/BINARY/6hour",
-            "run_path":"d:/pub_JRA55_download"
+            "download_GRIB":"d:/data/JRA55/download/GRIB",
+            "local_BINARY":"d:/data/JRA55/download/BINARY/6hour",
+            "run_path":"d:/pub_download_JRA55_Windows"
         },
         "file":{
             "password":"d:/textdata/passData.json"
@@ -12,11 +12,11 @@
     "remote":{
         "directory":{
             "user":{
-                "server_file_path":"/home/satake/server_data/JRA55",
-                "server_data_raid_path":"/home/satake/data_raid/JRA55"
+                "server_file_path":"/home/user/server_data/JRA55",
+                "server_data_raid_path":"/home/user/data_raid/JRA55"
             },
             "data_raid":{
-                "data_raid_path":"/data_raid/JRA55"
+                "data_raid_path":"/data/JRA55"
             }
         }
     }
