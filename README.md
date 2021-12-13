@@ -1,0 +1,2 @@
+# Windows_JRA_download
+同じくJRA55のダウンロードの自動化をwindowsでも行う
